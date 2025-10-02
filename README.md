@@ -1,3 +1,3 @@
 # git-demo
-This is my first repository .
-Author- Sagar Jat
+This is my first repository <br>
+<b>Author- Sagar Jat</b>
